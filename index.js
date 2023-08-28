@@ -7,7 +7,7 @@ client.on("ready", () => {
     console.log(`Logged in as ${client.user.tag}!`);
     client.user.setPresence({
       status: "dnd",
-      activity: { name: "baby#1337", type: "WATCHING" },
+      activity: { name: "FBC", type: "WATCHING" },
     });
 });
 
